@@ -1,4 +1,4 @@
-## Hi 👋, I'm Chetan Wagh
+# Hi 👋, I'm Chetan Wagh
 
   ###   Passionate student who loves working with the data and building Machine/Deep learning models
     
