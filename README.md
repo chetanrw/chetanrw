@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Chetan Wagh
 
-### Passionate student who loves working with the data and building Machine/Deep learning models
+###   Passionate student who loves working with the data and building Machine/Deep learning models
     
 - 🔭 I’m currently working on How to solve climate change problem with AI/ML
 - 🌱 I’m currently learning Vision Intelligence & ML
