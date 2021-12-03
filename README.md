@@ -2,8 +2,8 @@
 
 **Passionate student who loves working with the data and building Machine/Deep learning models**
 
-> 🔭 I’m currently working on How to solve climate change problem with AI/ML
-> 🌱 I’m currently learning Vision Intelligence & ML
+--> 🔭 I’m currently working on How to solve climate change problem with AI/ML
+--> 🌱 I’m currently learning Vision Intelligence & ML
 <!--
 **chetanrw/chetanrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
