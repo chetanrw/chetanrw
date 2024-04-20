@@ -1,9 +1,10 @@
 # Hi 👋, I'm Chetan Wagh
 
-  ###   Passionate student who loves working with the data and building Python/Django/Machine/Deep learning models
+  ###   Passionate developer who loves working with the data and building Python/Django/Machine/Deep learning models
     
 - 🔭 I’m currently working on projects related with AI/ML
-- 🌱 I’m an Ex-TCSer worked in Java, Databases, Angular.
+- ⚡ I've done my master's in Artificial Intelligence
+- 🌱 I’m an Ex-TCSer worked in Java, Databases, Angular
 - 👯 I’m looking to collaborate with the teams and work on projects and fully utilize as well as upgrade my skills
 <!--
 **chetanrw/chetanrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
