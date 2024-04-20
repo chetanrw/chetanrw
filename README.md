@@ -4,7 +4,7 @@
     
 - 🔭 I’m currently working on projects related with AI/ML
 - 🌱 I’m an Ex-TCSer worked in Java, Databases, Angular.
-- - 👯 I’m looking to collaborate with the teams and work on projects and fully utilize as well as upgrade my skills
+- 👯 I’m looking to collaborate with the teams and work on projects and fully utilize as well as upgrade my skills
 <!--
 **chetanrw/chetanrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
